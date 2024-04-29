@@ -1,9 +1,4 @@
-/*
---------------------------------------------------------------
-   student name: Souhail Daoudi
-   student number: 300135458
---------------------------------------------------------------
- */
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
