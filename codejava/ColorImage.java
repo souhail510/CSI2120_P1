@@ -1,9 +1,4 @@
-/*
---------------------------------------------------------------
-   student name: Souhail Daoudi
-   student number: 300135458
---------------------------------------------------------------
- */
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
